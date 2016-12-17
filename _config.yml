@@ -17,7 +17,7 @@ title: മാർഗസൂചിക
 email: contact@justinechacko.in
 description: > # this means to ignore newlines until "baseurl:"
   Career guidance.
-baseurl: "" 
+baseurl: "/career" 
 url: "" 
 avatar: "/me.png"
 # Build settings
