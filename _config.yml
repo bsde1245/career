@@ -19,7 +19,6 @@ description: > # this means to ignore newlines until "baseurl:"
   Career guidance.
 baseurl: "/career" 
 url: "" 
-avatar: "/me.png"
 # Build settings
 markdown: kramdown
 theme: minima
