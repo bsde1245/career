@@ -17,7 +17,7 @@ title: ജസ്റ്റിൻ ചാക്കോ
 email: contact@justinechacko.in
 description: > # this means to ignore newlines until "baseurl:"
   Tech news, mobile, gadgets, reviews, apps, internet.
-baseurl: "/career" 
+baseurl: "" 
 url: "" 
 
 # Build settings
