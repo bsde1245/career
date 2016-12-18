@@ -3,11 +3,11 @@ layout: page
 title: ടാഗുകൾ
 permalink: /categoryview/
 ---
-<div class="post-link1">
+<div>
 {% assign categories = site.categories | sort %}
 {% for category in categories %}
  <span class="site-tag">
-    <a class="post-link1" href="#{{ category | first | slugify }}">
+    <a href="#{{ category | first | slugify }}">
             {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
     </a>
 </span>
@@ -22,7 +22,7 @@ permalink: /categoryview/
 {% for post in sorted_posts %}
 {%if post.categories contains category[0]%}
 
-  <h5><a class="post-link1" href="{{ site.url }}{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
+  <h5><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
    
 
 {%endif%}

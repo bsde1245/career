@@ -1,2 +1,2 @@
-# career
-Career Guidance
+# Jekyllblog
+My Blog

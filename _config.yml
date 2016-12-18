@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: മാർഗസൂചിക
+title: ജസ്റ്റിൻ ചാക്കോ
 email: contact@justinechacko.in
 description: > # this means to ignore newlines until "baseurl:"
-  Career guidance.
-baseurl: "/career" 
+  Tech news, mobile, gadgets, reviews, apps, internet.
+baseurl: "/career/" 
 url: "" 
+
 # Build settings
 markdown: kramdown
 theme: minima

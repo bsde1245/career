@@ -371,7 +371,7 @@ pre {
   #searchBar #search {
     float: right; }
     #searchBar #search #searchString {
-      width: 153px;
+      width: 133px;
       border: none;
       box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2) inset;
       padding: 0.3em 0.6em;
@@ -400,8 +400,8 @@ pre {
 .layout1 {
   padding: 5px;
   margin: 10px;
-  background: #e1ebf2;
-  border-radius: 0.1px;
+  background: #caeaf0;
+  border-radius: 3px;
   box-shadow: 0 0 0 6px #ffffff, 1px 1px 6px 8px rgba(10, 10, 0, 0.4); }
 
 .post-link1 {
