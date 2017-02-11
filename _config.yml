@@ -28,7 +28,7 @@ paginate_path: "/page:num/"
 gems:
   - jekyll-feed
   - jekyll-paginate
-- jekyll-sitemap
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
